@@ -23,3 +23,10 @@ Blueprint:
 	+ Restart Game
 ? (0,5p) Aplicar la funcionalidad de que el player pueda poseer alguna IA.
 
+---------------
+
+Con la R - se reinicia el nivel.
+Con la T - se poseen los pawns.
+La piramide te mata al acercarte.
+Las animaciones se reproducen al empezar a jugar.
+
